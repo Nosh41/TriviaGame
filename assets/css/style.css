@@ -1,5 +1,5 @@
 body{
-    background-image: url("file:///Users/sergioadriantapia/Desktop/homework11Sep/TriviaGame/assets/images/rock1.jpg");
+    background-color: black;
     text-align: center;
 }
 
@@ -34,4 +34,10 @@ class{
 }
 h1{
   color: brown;
+}
+img{
+  width: 50%;
+        height: 20vmax;
+        position: absolute;
+        opacity: 0.3;
 }
