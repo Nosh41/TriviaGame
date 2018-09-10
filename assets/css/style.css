@@ -1,0 +1,37 @@
+body{
+    background-image: url("file:///Users/sergioadriantapia/Desktop/homework11Sep/TriviaGame/assets/images/rock1.jpg");
+    text-align: center;
+}
+
+.text-muted{
+  border-bottom-color: chartreuse;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 500%;
+  color: cadetblue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+  color: brown
+}
+h2{
+  color: red;
+  font-family: fantasy;
+  font-size: 500%;
+}
+button{
+  color: red;
+  font-family: fantasy;
+  font-size: 200%;
+  background-color: rgba(0, 0, 255, 0.3);  /* blue with opacity */
+}
+class{
+  color: red;
+  font-family: fantasy;
+  font-size: 500%;
+}
+h1{
+  color: brown;
+}
